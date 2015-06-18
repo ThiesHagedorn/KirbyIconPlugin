@@ -2,7 +2,7 @@
 Simple Plugin to integrate Font Awesome Icons in your kirby website.
 
 ##Installation
-Download the plugins repository and copy the columns folder to /site/plugins of your site.
+[Download](https://github.com/ThiesHagedorn/KirbyIconPlugin/archive/master.zip) the repository and copy the **icons** folder to **/site/plugins** of your site.
 
 Add the following line to your site header
 ```
