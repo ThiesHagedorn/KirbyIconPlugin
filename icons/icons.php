@@ -20,7 +20,7 @@ kirbytext::$pre[] = function($kirbytext, $text) {
             ' 5x',
         );
         $replace = array(
-            '<i class="fa ',
+            '<i class="fa fa-',
             '"></i>',
             ' fa-lg,',
             ' fa-2x',
