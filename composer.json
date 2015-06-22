@@ -1,0 +1,8 @@
+{
+	"name": "thieshagedorn/kirby-icon-plugin",
+	"description": "Plugin to integrate Font Awesome Icons in your kirby website",
+	"homepage": "https://github.com/ThiesHagedorn/KirbyIconPlugin",
+	"license": "MIT",
+	"type": "kirby-plugin"
+
+}
