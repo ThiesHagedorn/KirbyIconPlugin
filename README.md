@@ -54,3 +54,14 @@ Create list with icons
 * (icon:fa-check-square) third line
 ...
 ```
+
+Add Fixed Width, Animated Icons and Rotated & Flipped from julien-gargot/master
+```
+fw
+spin
+90
+180
+270
+horizontal
+vertical
+```
