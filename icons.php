@@ -18,6 +18,13 @@ kirbytext::$pre[] = function($kirbytext, $text) {
             ' 3x',
             ' 4x',
             ' 5x',
+            ' fw',
+            ' spin',
+            ' 90',
+            ' 180',
+            ' 270',
+            ' horizontal',
+            ' vertical',
         );
         $replace = array(
             '<i class="fa fa-',
@@ -27,6 +34,13 @@ kirbytext::$pre[] = function($kirbytext, $text) {
             ' fa-3x',
             ' fa-4x',
             ' fa-5x',
+            ' fa-fw',
+            ' fa-spin',
+            ' fa-rotate-90',
+            ' fa-rotate-180',
+            ' fa-rotate-270',
+            ' fa-flip-horizontal',
+            ' fa-flip-vertical',
         );
 
         return str_replace($toreplace,$replace,$matches[1]);
